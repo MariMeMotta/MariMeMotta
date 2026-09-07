@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-<p align="left">
+<p align="center">
   <img alt="JavaScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="PHP" height="36" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="HTML5" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
