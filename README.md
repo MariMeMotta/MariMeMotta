@@ -1,14 +1,3 @@
-## Oi, sou a Marina Melo Motta👋
-
- **Estudante de Ciência de Dados para Negócios** na Fatec Sebrae  
-📊 Apaixonada por transformar dados brutos em inteligência estratégica e soluções de negócios.
-
-### 🚀 Sobre Mim
-- 🎓 Cursando Ciência de Dados para Negócios, com foco na aplicação prática de dados em cenários corporativos e estratégicos.
-- 💡 Interesses em **Data Analytics**, **Business Intelligence**, **Projetos Full-Stack** e **Cloud Computing**.
-- 🛠️ Atualmente desenvolvendo projetos acadêmicos e pessoais envolvendo análise espacial, criação de dashboards e automação de dados.
-
-  
  ## Oi, sou a Marina Melo Motta 👋
 
 **Estudante de Ciência de Dados para Negócios** na Fatec Sebrae  
