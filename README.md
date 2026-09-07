@@ -49,4 +49,4 @@
 ---
 
 ### 🎮 Contribuições
-![Snake animation](https://github.com/MariMeMotta/MariMeMotta/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/MariMeMotta/MariMeMotta/output/github-contribution-grid-snake.svg)
