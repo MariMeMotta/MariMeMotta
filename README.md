@@ -26,8 +26,8 @@
 ### 📊 Estatísticas
 <p align="center">
   <a href="https://github.com/MariMeMotta">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=MariMeMotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariMeMotta&layout=compact&langs_count=8&theme=dracula" alt="Linguagens mais usadas" />
+    <img align="center" alt="Mari-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+<img align="center" alt="Mari-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   </a>
 </p>
 
